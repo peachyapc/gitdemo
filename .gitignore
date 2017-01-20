@@ -1,0 +1,5 @@
+ignore java compiler output
+
+bin/
+build/
+*.class
